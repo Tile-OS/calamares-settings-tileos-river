@@ -1,3 +1,9 @@
+calamares-settings-tileos-river (1.2~tileos) unstable; urgency=medium
+
+  * Initial upload
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 17 May 2023 18:33:05 +0400
+
 calamares-settings-tileos-sway (1.2~tileos) unstable; urgency=medium
 
   * Exec start-sway wrapper
