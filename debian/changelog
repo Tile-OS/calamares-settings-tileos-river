@@ -1,3 +1,9 @@
+calamares-settings-tileos-river (1.7~tileos) unstable; urgency=medium
+
+  * Add River welcome screen
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 28 Sep 2023 23:10:23 +0400
+
 calamares-settings-tileos-river (1.6~tileos) unstable; urgency=medium
 
   * Fix typo
